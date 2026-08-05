@@ -91,6 +91,3 @@ openai = [
 mlx = [
     "mlx_lm>=0.24.0",
 ]
-
-[tool.uv]
-torch-backend = "auto"
